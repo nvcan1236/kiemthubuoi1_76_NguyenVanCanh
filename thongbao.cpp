@@ -3,6 +3,6 @@ using namespace std;
 
 int main() 
 {
-	cout << "Stt 39 Xin chao 76";
+	cout << "Main da xoa giu lai 1 dong";
 	return 0;
 }
